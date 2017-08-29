@@ -60,10 +60,11 @@
 
 ## 提案
 
-- どのWebサービス・アプリでも**7～8割ぐらい**は書ける、覚えやすくてミニマムなMarkdown仕様を提案する
-    - 例: [CommonMarkの「LEARN MARKDOWN IN 60 SECONDS」](http://commonmark.org/help/)
+- 覚えやすくてミニマムなMarkdown仕様を提案する
+    - 目標: どのWebサービス・アプリでも**7～8割ぐらい**は書ける
+    - 例: [LEARN MARKDOWN IN 60 SECONDS](http://commonmark.org/help/)
     - **Markdownの全部を覚えさせない**
-- よく使われるWebサービス・アプリ・用途に絞って応用を示す
+- 応用: よく使われるサービス・アプリを厳選して書き方を紹介
     - 「具体的にどれ？」は要検討
 - 巻末付録: Markdownリファレンス（詳細版）
     - 主要方言間の比較表を付けたい
