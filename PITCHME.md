@@ -76,7 +76,7 @@
         - 企画段階での議論はもちろん必要
     - Markdownに対応するサービス・アプリを網羅した一覧・レシピ本
         - どちらかといえばWikiっぽいのが良い？
-        - 作りかけ（改装予定）: [ドキュメンテーションWiki](https://github.com/doc-wiki-jp/wiki/wiki)
+        - 作りかけ: [ドキュメンテーションWiki](https://github.com/doc-wiki-jp/wiki/wiki)
 - 論外
     - 「Markdown知ってる俺スゲー」本
 
