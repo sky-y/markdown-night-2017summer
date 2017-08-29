@@ -99,3 +99,5 @@
     - 「読むだけ」も歓迎ですが、自己紹介は最低限お願いします
 - Slackチーム: [Markdown本 企画用Slackグループ](https://docs.google.com/forms/d/e/1FAIpQLSeYB6pYtFl8DNcht4brArL2i3QwTR3e_EPY5e7dBZ_h1hQsVw/viewform)
     - QRコード配ってるので必要な方はどうぞ
+
+![QR](assets/qr_markdown-book-slack.png)
